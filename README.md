@@ -18,6 +18,4 @@ This project is a **blog website** built using **ASP.NET MVC, SQL Server, and En
 ### **Technologies Used:**  
 - **ASP.NET MVC** – Provides a structured framework for web development.  
 - **SQL Server** – Stores blog data efficiently.  
-- **Entity Framework Core** – Facilitates database interactions using the code-first approach.  
-
-This project is designed for **simplicity and efficiency**, allowing users to explore blogs while providing administrators with full control over content management. 🚀
+- **Entity Framework Core** – Facilitates database interactions using the code-first approach. 
